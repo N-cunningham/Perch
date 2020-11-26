@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    --Donegal: #a2a832
+}
+
+#Donegal {
+    --bg: #a2a832
+}

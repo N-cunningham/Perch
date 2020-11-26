@@ -30,6 +30,7 @@
             "scripts": []
           },
           "configurations": {
+            "assets": [ "src/assets/*" ],
             "production": {
               "fileReplacements": [
                 {
